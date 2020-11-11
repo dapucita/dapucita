@@ -2,7 +2,7 @@
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat-square&logo=patreon&logoColor=fff)](https://www.patreon.com/dapucita)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=fff)](https://discord.gg/qfg45B2)
 
-[![dapucita's github stats](https://github-readme-stats.vercel.app/api?username=dapucita&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![dapucita's github stats](https://github-readme-stats.vercel.app/api?username=dapucita&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs)](https://github.com/dapucita)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node%2ejs&logoColor=fff)
 ![.net](https://img.shields.io/badge/-.net-5C2D91?style=for-the-badge&logo=.net&logoColor=fff)
