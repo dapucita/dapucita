@@ -5,10 +5,4 @@
 [![dapucita's github stats](https://github-readme-stats.vercel.app/api?username=dapucita&show_icons=true&include_all_commits=true&theme=dracula&hide=contribs,prs)](https://github.com/dapucita)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node%2ejs&logoColor=fff)
-![.net](https://img.shields.io/badge/-.net-5C2D91?style=for-the-badge&logo=.net&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c%20sharp&logoColor=fff)
 ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-
-I'm enjoying programming as a hobby and I like C#, Typescript.
-
-My programming skills are not good, but I enjoy dealing with computers and communicating on the Internet.
